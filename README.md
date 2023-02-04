@@ -1,2 +1,2 @@
-# My-projects
-I am learning phyton and my experiments will take place here.
+# My projects & portfolio 
+I am learning Pyhton (3.0+) and my experiments and projects will take place here.
